@@ -63,7 +63,7 @@
                 "upload_more": "Cargar mas",
                 "done": "Listo",
                 "mini_upload_count": "{{num}} cargados,
-                "mini_failed": "{{num}} fallidos,
+                "mini_failed": "{{num}} fallidos",
                 "statuses": {
                     "uploading": "Cargando…",
                     "error": "Error",
@@ -207,7 +207,7 @@
                 "reg_link_text": "Da clic aquí para crear tu cuenta en Shutterstock",
                 "next_btn": "Siguiente",
                 "media_types": {
-                    "images": "Imágenes,
+                    "images": "Imágenes",
                     "videos": "Videos"
                 },
                 "filters": {
@@ -277,7 +277,7 @@
                     "resolution": {
                         "label": "Resolución",
                         "standard_definition": "SD",
-                        "standard_definition_tip": "Definición estándar,
+                        "standard_definition_tip": "Definición estándar",
                         "high_definition": "HD",
                         "high_definition_tip": "Alta definición",
                         "4k": "4k",
@@ -373,7 +373,7 @@
                 "title": "Valores estructurados de metadata",
                 "subtitle": "1 archivo seleccionado",
                 "subtitle_plural": "{{count}} archivos seleccionados",
-                "tooltip": "Algunos campos de metadata requeridos están vacíos o los valores proporcionados son incorrectos".",
+                "tooltip": "Algunos campos de metadata requeridos están vacíos o los valores proporcionados son incorrectos.",
                 "upload": "Cargar",
                 "conflict_label": "Sobrescribir",
                 "intro": {
