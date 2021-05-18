@@ -62,7 +62,7 @@
                 "abort_all": "Cancelar todos",
                 "upload_more": "Cargar mas",
                 "done": "Listo",
-                "mini_upload_count": "{{num}} cargados,
+                "mini_upload_count": "{{num}} cargados",
                 "mini_failed": "{{num}} fallidos",
                 "statuses": {
                     "uploading": "Cargando…",
@@ -249,7 +249,7 @@
                         "amber": "ambar",
                         "yellow": "amarillo",
                         "lime": "lima",
-                        "green": "verde,
+                        "green": "verde",
                         "teal": "verde azulado",
                         "turquoise": "turquesa",
                         "aqua": "aqua",
@@ -378,7 +378,7 @@
                 "conflict_label": "Sobrescribir",
                 "intro": {
                     "openingText": "Puedes llenar los siguientes campos para agregar nueva metadata a tus archivos a ser cargados.",
-                    "conflictWarning": "Nota: Selecciona ‘Sobrescribir’ para los campos donde deseas aplicar los nuevos valores para archivos nuevos o a reemplazar".",
+                    "conflictWarning": "Nota: Selecciona ‘Sobrescribir’ para los campos donde deseas aplicar los nuevos valores para archivos nuevos o a reemplazar.",
                     "closingText": "Después de cargar, puedes modificar la metadata para archivos individuales desde la librería de medios."
                 },
                 "closePrompt": "¿Estás seguro de querer cerrar esta caja de diálogo? Tus archivos no serán cargados.",
